@@ -1,4 +1,4 @@
-baseURL = "https://wolfgangdata.netlify.com"
+baseURL = "https://examplesite.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
